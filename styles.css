@@ -1,8 +1,30 @@
-div {
-    color: white;
-    background-color: black;
+* {
+    padding: 30px;
+    margin: 0px;
+    font-size: 25px;
 }
 
-p {
-    color: blue;
+
+
+.box-one {
+    background-color: brown;
+    border: 30px solid purple;
+    padding: 45px;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+   
+}
+
+
+.box-two {
+
+    background-color: rgb(42, 165, 52);
+    border: 10px solid rgb(176, 32, 176);
+    padding: 35px;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    
+
 }
